@@ -32,9 +32,3 @@ This Power BI dashboard analyzes over 3,400 retail transactions to provide execu
 
 <img width="1876" height="1048" alt="image" src="https://github.com/user-attachments/assets/42d46203-e0a5-40e4-ad31-6a218e05e907" />
 
-
-## Future Improvements
-
-- Customer Insights page
-- Product Performance page
-- Time intelligence measures
